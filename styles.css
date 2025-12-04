@@ -21,6 +21,6 @@ body {
 }
 
 #image {
-  max-width: none;  /* важно! даёт Cropper.js увеличивать изображение */
+  max-width: none;
   display: block;
 }
