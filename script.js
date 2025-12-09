@@ -3,7 +3,6 @@ import "cropperjs/dist/cropper.css";
 
 let cropper;
 
-// элементы должны быть объявлены ДО использования!
 const uploadBtn = document.getElementById("upload-btn");
 const cropBtn = document.getElementById("crop-btn");
 const downloadBtn = document.getElementById("download-btn");
